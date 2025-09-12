@@ -1,5 +1,6 @@
 ## Hi there 👋
-https://images.steamusercontent.com/ugc/61469331284722190/6176CBB8B4A7BB819027C68A0537470E40A0FCBB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false
+<img width="255" height="223" alt="image" src="https://github.com/user-attachments/assets/bed666ba-c95f-4b49-b5ee-2399904e747c" />
+
 <!--
 **Storinob/Storinob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
