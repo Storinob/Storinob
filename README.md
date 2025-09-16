@@ -1,5 +1,4 @@
 ## ![wildass](https://github.com/user-attachments/assets/bad84217-860c-48fd-a635-f9c5bf34935d)
-:beetle: Bug Hunter :beetle:
 <!--
 **Storinob/Storinob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
