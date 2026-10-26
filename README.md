@@ -27,9 +27,10 @@
 ![Static Badge](https://img.shields.io/badge/Public_project_repos-3-green?logo=github)
 
 <details>
-
 <summary>spoiler
+
 ![wildass](https://github.com/user-attachments/assets/bad84217-860c-48fd-a635-f9c5bf34935d)
+
 </details>
 <!--
 **Storinob/Storinob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
