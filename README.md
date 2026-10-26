@@ -25,7 +25,7 @@
 ![Static Badge](https://img.shields.io/badge/Public_project_repos-3-green?logo=github)
 
 <details>
-<summary>spoiler</summary>
+<summary>things</summary>
 
 ![wildass](https://github.com/user-attachments/assets/bad84217-860c-48fd-a635-f9c5bf34935d)
 
