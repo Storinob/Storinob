@@ -7,6 +7,8 @@
 [![Static Badge](https://img.shields.io/badge/Discord-Bino's%20Workshop-%235865F2?logo=discord)](https://discord.gg/wdt5Ke2Rs8)
 ![Static Badge](https://img.shields.io/badge/Public_project_repos-3-green?logo=github)
 
+---
+
 <details>
 <summary>things</summary>
 
